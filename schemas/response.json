@@ -1,0 +1,21 @@
+{
+    "offensive": {
+      "level": 1,
+      "userOfensive": ["Usuario3"]
+    },
+    "concordance": {
+      "level": 0.5,
+      "userOutConcordance": ["Usuario2"]
+    },
+    "sentiments": {
+      "neutral": 0.5,
+      "happiness": 0,
+      "sadness": 0,
+      "fear": 0,
+      "anger": 0.5,
+      "surprise": 0,
+      "love": 0,
+      "hate": 0.5
+    },
+    "message": "Usuario3's message is offensive as it contains profane language. Usuario2's message is off-topic as it is promoting a product unrelated to the conversation."
+  }
